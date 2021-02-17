@@ -1,2 +1,1 @@
-# landing-page
-My personal and humble website :)
+# My personal and humble website :)
